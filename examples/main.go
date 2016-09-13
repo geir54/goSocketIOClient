@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	socketIO "../../goSocketIOClient"
+	socketIO "github.com/geir54/goSocketIOClient"
 )
 
 func main() {
